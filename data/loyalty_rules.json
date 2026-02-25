@@ -1,0 +1,137 @@
+[
+  {
+    "customer_id": "C001",
+    "first_name": "John",
+    "email": "john.smith@email.com",
+    "loyalty_status": "Gold",
+    "total_loyalty_points": 1250,
+    "last_purchase_date": "2024-12-15",
+    "segment_id": "HS"
+  },
+  {
+    "customer_id": "C002",
+    "first_name": "Sarah",
+    "email": "sarah.jones@email.com",
+    "loyalty_status": "Silver",
+    "total_loyalty_points": 680,
+    "last_purchase_date": "2024-12-18",
+    "segment_id": "AR"
+  },
+  {
+    "customer_id": "C003",
+    "first_name": "Mike",
+    "email": "mike.brown@email.com",
+    "loyalty_status": "Bronze",
+    "total_loyalty_points": 320,
+    "last_purchase_date": "2024-12-10",
+    "segment_id": "AR"
+  },
+  {
+    "customer_id": "C004",
+    "first_name": "Emily",
+    "email": "emily.davis@email.com",
+    "loyalty_status": "Gold",
+    "total_loyalty_points": 1890,
+    "last_purchase_date": "2024-12-19",
+    "segment_id": "HS"
+  },
+  {
+    "customer_id": "C005",
+    "first_name": "David",
+    "email": "david.wilson@email.com",
+    "loyalty_status": "Silver",
+    "total_loyalty_points": 540,
+    "last_purchase_date": "2024-11-20",
+    "segment_id": "AR"
+  },
+  {
+    "customer_id": "C006",
+    "first_name": "Lisa",
+    "email": "lisa.martinez@email.com",
+    "loyalty_status": "Bronze",
+    "total_loyalty_points": 210,
+    "last_purchase_date": "2024-12-17",
+    "segment_id": ""
+  },
+  {
+    "customer_id": "C007",
+    "first_name": "James",
+    "email": "james.taylor@email.com",
+    "loyalty_status": "Gold",
+    "total_loyalty_points": 2100,
+    "last_purchase_date": "2024-12-19",
+    "segment_id": "HS"
+  },
+  {
+    "customer_id": "C008",
+    "first_name": "Jennifer",
+    "email": "jennifer.anderson@email.com",
+    "loyalty_status": "Silver",
+    "total_loyalty_points": 750,
+    "last_purchase_date": "2024-12-16",
+    "segment_id": ""
+  },
+  {
+    "customer_id": "C009",
+    "first_name": "Robert",
+    "email": "robert.thomas@email.com",
+    "loyalty_status": "Bronze",
+    "total_loyalty_points": 180,
+    "last_purchase_date": "2024-10-15",
+    "segment_id": "AR"
+  },
+  {
+    "customer_id": "C010",
+    "first_name": "Maria",
+    "email": "maria.jackson@email.com",
+    "loyalty_status": "Gold",
+    "total_loyalty_points": 1650,
+    "last_purchase_date": "2024-12-18",
+    "segment_id": "HS"
+  },
+  {
+    "customer_id": "C011",
+    "first_name": "William",
+    "email": "william.white@email.com",
+    "loyalty_status": "Silver",
+    "total_loyalty_points": 420,
+    "last_purchase_date": "2024-12-12",
+    "segment_id": ""
+  },
+  {
+    "customer_id": "C012",
+    "first_name": "Patricia",
+    "email": "patricia.harris@email.com",
+    "loyalty_status": "Bronze",
+    "total_loyalty_points": 290,
+    "last_purchase_date": "2024-12-14",
+    "segment_id": ""
+  },
+  {
+    "customer_id": "C013",
+    "first_name": "Richard",
+    "email": "richard.martin@email.com",
+    "loyalty_status": "Gold",
+    "total_loyalty_points": 1980,
+    "last_purchase_date": "2024-12-19",
+    "segment_id": "HS"
+  },
+  {
+    "customer_id": "C014",
+    "first_name": "Linda",
+    "email": "linda.thompson@email.com",
+    "loyalty_status": "Silver",
+    "total_loyalty_points": 610,
+    "last_purchase_date": "2024-12-11",
+    "segment_id": ""
+  },
+  {
+    "customer_id": "C015",
+    "first_name": "Joseph",
+    "email": "joseph.garcia@email.com",
+    "loyalty_status": "Bronze",
+    "total_loyalty_points": 150,
+    "last_purchase_date": "2024-09-10",
+    "segment_id": "AR"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "store_id": "ST001",
+    "store_name": "City Center Mall",
+    "store_city": "New York",
+    "store_region": "New York",
+    "opening_date": "2020-01-15"
+  },
+  {
+    "store_id": "ST002",
+    "store_name": "Westside Plaza",
+    "store_city": "Los Angeles",
+    "store_region": "California",
+    "opening_date": "2019-03-20"
+  },
+  {
+    "store_id": "ST003",
+    "store_name": "North Park Store",
+    "store_city": "Chicago",
+    "store_region": "Illinois",
+    "opening_date": "2021-06-10"
+  },
+  {
+    "store_id": "ST004",
+    "store_name": "Riverside Shopping",
+    "store_city": "Seattle",
+    "store_region": "Washington",
+    "opening_date": "2018-11-05"
+  },
+  {
+    "store_id": "ST005",
+    "store_name": "Downtown Hub",
+    "store_city": "Houston",
+    "store_region": "Texas",
+    "opening_date": "2020-09-12"
+  },
+  {
+    "store_id": "ST006",
+    "store_name": "Metro Square",
+    "store_city": "Atlanta",
+    "store_region": "Georgia",
+    "opening_date": "2019-07-18"
+  },
+  {
+    "store_id": "ST007",
+    "store_name": "Central Market",
+    "store_city": "Boston",
+    "store_region": "Massachusetts",
+    "opening_date": "2021-02-28"
+  },
+  {
+    "store_id": "ST008",
+    "store_name": "Valley View Mall",
+    "store_city": "Phoenix",
+    "store_region": "Arizona",
+    "opening_date": "2020-05-14"
+  }
+]
